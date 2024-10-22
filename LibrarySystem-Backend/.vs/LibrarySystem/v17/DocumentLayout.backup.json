@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edgar\\source\\repos\\LibrarySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC7FA13-6FAC-46D4-92E1-CED888C7A8F5}|Library.Tests\\Library.Tests.csproj|c:\\users\\edgar\\source\\repos\\librarysystem\\library.tests\\services\\reservations\\reservationsservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC7FA13-6FAC-46D4-92E1-CED888C7A8F5}|Library.Tests\\Library.Tests.csproj|solutionrelative:library.tests\\services\\reservations\\reservationsservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD91C3A-340C-4B5A-BB5F-C8BED87E0DA3}|Library.Core\\Library.Core.csproj|c:\\users\\edgar\\source\\repos\\librarysystem\\library.core\\services\\reservationservice\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD91C3A-340C-4B5A-BB5F-C8BED87E0DA3}|Library.Core\\Library.Core.csproj|solutionrelative:library.core\\services\\reservationservice\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\source\\repos\\LibrarySystem\\Library.Core\\Services\\ReservationService\\ReservationService.cs",
+              "RelativeDocumentMoniker": "Library.Core\\Services\\ReservationService\\ReservationService.cs",
+              "ToolTip": "C:\\Users\\edgar\\source\\repos\\LibrarySystem\\Library.Core\\Services\\ReservationService\\ReservationService.cs",
+              "RelativeToolTip": "Library.Core\\Services\\ReservationService\\ReservationService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:01:01.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservationsServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\source\\repos\\LibrarySystem\\Library.Tests\\Services\\Reservations\\ReservationsServiceTests.cs",
+              "RelativeDocumentMoniker": "Library.Tests\\Services\\Reservations\\ReservationsServiceTests.cs",
+              "ToolTip": "C:\\Users\\edgar\\source\\repos\\LibrarySystem\\Library.Tests\\Services\\Reservations\\ReservationsServiceTests.cs",
+              "RelativeToolTip": "Library.Tests\\Services\\Reservations\\ReservationsServiceTests.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:59:37.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

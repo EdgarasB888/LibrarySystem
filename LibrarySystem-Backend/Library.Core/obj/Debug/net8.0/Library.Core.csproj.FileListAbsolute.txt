@@ -1,0 +1,17 @@
+C:\Users\edgar\source\repos\LibrarySystem\Library.Core\bin\Debug\net8.0\Library.Core.deps.json
+C:\Users\edgar\source\repos\LibrarySystem\Library.Core\bin\Debug\net8.0\Library.Core.dll
+C:\Users\edgar\source\repos\LibrarySystem\Library.Core\bin\Debug\net8.0\Library.Core.pdb
+C:\Users\edgar\source\repos\LibrarySystem\Library.Core\bin\Debug\net8.0\Library.Domain.dll
+C:\Users\edgar\source\repos\LibrarySystem\Library.Core\bin\Debug\net8.0\Library.Infrastructure.dll
+C:\Users\edgar\source\repos\LibrarySystem\Library.Core\bin\Debug\net8.0\Library.Domain.pdb
+C:\Users\edgar\source\repos\LibrarySystem\Library.Core\bin\Debug\net8.0\Library.Infrastructure.pdb
+C:\Users\edgar\source\repos\LibrarySystem\Library.Core\obj\Debug\net8.0\Library.Core.csproj.AssemblyReference.cache
+C:\Users\edgar\source\repos\LibrarySystem\Library.Core\obj\Debug\net8.0\Library.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgar\source\repos\LibrarySystem\Library.Core\obj\Debug\net8.0\Library.Core.AssemblyInfoInputs.cache
+C:\Users\edgar\source\repos\LibrarySystem\Library.Core\obj\Debug\net8.0\Library.Core.AssemblyInfo.cs
+C:\Users\edgar\source\repos\LibrarySystem\Library.Core\obj\Debug\net8.0\Library.Core.csproj.CoreCompileInputs.cache
+C:\Users\edgar\source\repos\LibrarySystem\Library.Core\obj\Debug\net8.0\Library..26B1B06C.Up2Date
+C:\Users\edgar\source\repos\LibrarySystem\Library.Core\obj\Debug\net8.0\Library.Core.dll
+C:\Users\edgar\source\repos\LibrarySystem\Library.Core\obj\Debug\net8.0\refint\Library.Core.dll
+C:\Users\edgar\source\repos\LibrarySystem\Library.Core\obj\Debug\net8.0\Library.Core.pdb
+C:\Users\edgar\source\repos\LibrarySystem\Library.Core\obj\Debug\net8.0\ref\Library.Core.dll

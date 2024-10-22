@@ -1,0 +1,15 @@
+C:\Users\edgar\source\repos\LibrarySystem\Library.Infrastructure\bin\Debug\net8.0\Library.Infrastructure.deps.json
+C:\Users\edgar\source\repos\LibrarySystem\Library.Infrastructure\bin\Debug\net8.0\Library.Infrastructure.dll
+C:\Users\edgar\source\repos\LibrarySystem\Library.Infrastructure\bin\Debug\net8.0\Library.Infrastructure.pdb
+C:\Users\edgar\source\repos\LibrarySystem\Library.Infrastructure\bin\Debug\net8.0\Library.Domain.dll
+C:\Users\edgar\source\repos\LibrarySystem\Library.Infrastructure\bin\Debug\net8.0\Library.Domain.pdb
+C:\Users\edgar\source\repos\LibrarySystem\Library.Infrastructure\obj\Debug\net8.0\Library.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\edgar\source\repos\LibrarySystem\Library.Infrastructure\obj\Debug\net8.0\Library.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgar\source\repos\LibrarySystem\Library.Infrastructure\obj\Debug\net8.0\Library.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\edgar\source\repos\LibrarySystem\Library.Infrastructure\obj\Debug\net8.0\Library.Infrastructure.AssemblyInfo.cs
+C:\Users\edgar\source\repos\LibrarySystem\Library.Infrastructure\obj\Debug\net8.0\Library.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\edgar\source\repos\LibrarySystem\Library.Infrastructure\obj\Debug\net8.0\Library..FAF1E3BF.Up2Date
+C:\Users\edgar\source\repos\LibrarySystem\Library.Infrastructure\obj\Debug\net8.0\Library.Infrastructure.dll
+C:\Users\edgar\source\repos\LibrarySystem\Library.Infrastructure\obj\Debug\net8.0\refint\Library.Infrastructure.dll
+C:\Users\edgar\source\repos\LibrarySystem\Library.Infrastructure\obj\Debug\net8.0\Library.Infrastructure.pdb
+C:\Users\edgar\source\repos\LibrarySystem\Library.Infrastructure\obj\Debug\net8.0\ref\Library.Infrastructure.dll

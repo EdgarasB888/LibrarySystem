@@ -1,0 +1,11 @@
+C:\Users\edgar\source\repos\LibrarySystem\Library.Domain\bin\Debug\net8.0\Library.Domain.deps.json
+C:\Users\edgar\source\repos\LibrarySystem\Library.Domain\bin\Debug\net8.0\Library.Domain.dll
+C:\Users\edgar\source\repos\LibrarySystem\Library.Domain\bin\Debug\net8.0\Library.Domain.pdb
+C:\Users\edgar\source\repos\LibrarySystem\Library.Domain\obj\Debug\net8.0\Library.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgar\source\repos\LibrarySystem\Library.Domain\obj\Debug\net8.0\Library.Domain.AssemblyInfoInputs.cache
+C:\Users\edgar\source\repos\LibrarySystem\Library.Domain\obj\Debug\net8.0\Library.Domain.AssemblyInfo.cs
+C:\Users\edgar\source\repos\LibrarySystem\Library.Domain\obj\Debug\net8.0\Library.Domain.csproj.CoreCompileInputs.cache
+C:\Users\edgar\source\repos\LibrarySystem\Library.Domain\obj\Debug\net8.0\Library.Domain.dll
+C:\Users\edgar\source\repos\LibrarySystem\Library.Domain\obj\Debug\net8.0\refint\Library.Domain.dll
+C:\Users\edgar\source\repos\LibrarySystem\Library.Domain\obj\Debug\net8.0\Library.Domain.pdb
+C:\Users\edgar\source\repos\LibrarySystem\Library.Domain\obj\Debug\net8.0\ref\Library.Domain.dll
